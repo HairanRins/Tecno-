@@ -65,24 +65,24 @@
 
 * **5. Étapes de création d'une API RESTful**
 
-- 1. **Planification :**
+- a) **Planification :**
   
     // Créer un schéma de base pour les endpoints.
     // Définir les structures des données (JSON).
 
-- 2. **Création des routes :**
+- b) **Création des routes :**
      
     // Associer chaque endpoint à un verbe HTTP.
 
-- 3. **Connexion à une base de données :**
+- c) **Connexion à une base de données :**
      
     // Permettre la persistance des données avec des outils comme MySQL, MongoDB, ou PostgreSQL.
 
-- 4. **Mise en place des middlewares :**
+- d) **Mise en place des middlewares :**
      
     // Pour gérer la sécurité, le logging, et la validation des requêtes.
 
-- 5. **Tests :**
+- e) **Tests :**
      
     // Tester manuellement avec des outils comme Postman ou automatiser les tests avec des frameworks comme Jest, Pytest, ou Mocha.
 
