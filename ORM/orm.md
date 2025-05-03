@@ -1,6 +1,6 @@
-Un **ORM** (Object-Relational Mapping) est une technique qui permet de transformer les données entre des systèmes incompatibles, en l'occurrence entre des bases de données relationnelles (SQL) et des objets dans les langages de programmation orientés objets (comme Java, Python, JavaScript, etc.). L'ORM permet aux développeurs de travailler avec des objets dans leur code au lieu de manipuler directement des requêtes SQL, ce qui simplifie la gestion des bases de données.
-
 # ORM
+
+Un **ORM** (Object-Relational Mapping) est une technique qui permet de transformer les données entre des systèmes incompatibles, en l'occurrence entre des bases de données relationnelles (SQL) et des objets dans les langages de programmation orientés objets (comme Java, Python, JavaScript, etc.). L'ORM permet aux développeurs de travailler avec des objets dans leur code au lieu de manipuler directement des requêtes SQL, ce qui simplifie la gestion des bases de données.
 
 ### Comment ça fonctionne ?
 
